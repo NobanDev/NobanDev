@@ -6,7 +6,7 @@
 </h2>
 <p>
     <samp>
-        I'm a software engineer developer who . I like open-source software and cryptography and service performance optimization. At the same time, I'm also a cryptocurrency holder.
+        I'm a software engineer developer who loves coding and challenges. I like open-source software and cryptography and service performance optimization. At the same time, I'm also a cryptocurrency holder.
     </samp>
     <br>
     <br>
