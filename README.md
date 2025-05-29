@@ -74,11 +74,12 @@ const NobanDev = {
         },
         frontend: {
             javascript: [ "React", "Next", "Vue", "Angular", "Electron" ],
-            rust: ["Leptos", "Iced"]
+            rust: ["Leptos", "Iced"],
             css: [ "TailwindCSS", "Bootstrap", "Material UI", "Hero UI" ],
         },
         backend: {
             frameworks: {
+                javascript: [Node.JS, Nest.JS, Next.JS, Refine.DEV],
                 rust: [ "Actix", "Axum", "Rocket", "Warp", "Tonic" ],
                 golang: [ "Echo", "Go Kit" ],
                 kotlin: [ "Ktor", "Spring Boot" ],
